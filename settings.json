@@ -1,0 +1,5 @@
+{
+  "api_key": "your_openweather_api_key_here",
+  "mokky_key": "your_mokky_dev_db_key",
+  "mokky_test": "optional_test_key"
+}
